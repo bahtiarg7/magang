@@ -8,7 +8,7 @@
 - 17 September 2024 : Membuat desain wireframe
 - 18 September 2024 : Membuat desain Hi-Fi
 - 19 September 2024 : Membuat desain Hi-Fi & Prototyping
-- 20 September 2024 :
+- 20 September 2024 : Melalukan prototyping & peralihan ke coding (Front End)
 #
 - 23 September 2024 :
 - 24 September 2024 :
