@@ -1,4 +1,4 @@
-# Bulan September
+# Bulan September OK ACC
 - 09 September 2024 : Pengenalan lingkungan
 - 10 September 2024 : Menentukan judul (riset & penentuan solusi)
 - 11 September 2024 : Riset & penentuan solusi
