@@ -1,6 +1,9 @@
 Tugas: Membuat Website Sistem Informasi Perpustakaan
+
 Link preview design: 
+
 Link project github: https://github.com/putrialuthfi/perpus_repo
+#
 
 # Bulan September OK ACC
 - 09 September 2024 : Pengenalan lingkungan
@@ -25,18 +28,22 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 2. About Us ✅
 3. Footer ✅
 
+
 - 25 September 2024 : Melakukan coding Front End:
 1. Beranda (60%)
 2. Laman login admin & pembaca (85%)
 3. Laman katalog-2 (90%)
 
+
 - 26 September 2024 : Melakukan coding Front End:
 1. Laman katalog-2 ✅
 2. Laman registrasi admin & pembaca (85%)
 
+
 - 27 September 2024 : Melakukan coding Front End:
 1. Form Pinjam Buku ✅
 2. Section katalog ()
+
 
 #
 - 30 September 2024 :
