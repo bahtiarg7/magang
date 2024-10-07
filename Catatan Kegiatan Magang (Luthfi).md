@@ -63,15 +63,15 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 - 03 Oktober 2024 : (Izin Sakit)
 - 04 Oktober 2024 : (Izin Sakit)
 
-- 05 Oktober 2024 : 
-Melakukan coding Front End:
+- 07 Oktober 2024 : Melakukan coding Front End:
 1. Profil Pembaca ✅
 2. Profil Admin ✅
 3. Riwayat Peminjaman ✅
-4. Aktivitas saya/pembaca (60%)
+4. Aktivitas saya/pembaca ✅
+5. Data peminjam Buku
+6. Upload data buku 
+7. Laman katalog-1
 
-- 06 Oktober 2024 : 
-- 07 Oktober 2024 : 
 - 08 Oktober 2024 : 
 - 09 Oktober 2024 : 
 
@@ -101,7 +101,7 @@ Melakukan coding Front End:
 15. [x] Profil Pembaca ✅
 16. [x] Riwayat Peminjaman ✅
 17. [x] Form Pinjam Buku ✅
-18. [ ] Aktivitas Saya/Pembaca (60%)
+18. [x] Aktivitas Saya/Pembaca ✅
 19. [x] Profil Admin ✅
 20. [ ] Data Peminjam Buku
 21. [ ] Upload Data Buku
