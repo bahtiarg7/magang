@@ -68,9 +68,9 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 2. Profil Admin ✅
 3. Riwayat Peminjaman ✅
 4. Aktivitas saya/pembaca ✅
-5. Data peminjam Buku
-6. Upload data buku 
-7. Laman katalog-1
+5. Data peminjam Buku ✅
+6. Upload data buku ✅
+7. Laman katalog-1 ✅
 
 - 08 Oktober 2024 : 
 - 09 Oktober 2024 : 
