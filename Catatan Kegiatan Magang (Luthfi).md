@@ -72,8 +72,22 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 6. Upload data buku ✅
 7. Laman katalog-1 ✅
 
-- 08 Oktober 2024 : 
-- 09 Oktober 2024 : 
+- 08 Oktober 2024 : Melakukan coding Front End:
+1. Laman artikel 60%
+
+- 09 Oktober 2024 : (Izin)
+- 10 Oktober 2024 : (Izin)
+- 11 Oktober 2024 : (Izin)
+
+- 14 Oktober 2024 : Melakukan coding Front End:
+1. Laman artikel 
+2. Laman regis
+3. Laman login
+
+- 15 Oktober 2024 :
+- 16 Oktober 2024 :
+- 17 Oktober 2024 :
+- 18 Oktober 2024 :
 
 
 # Bulan November
@@ -97,13 +111,13 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 11. [ ] Regis Admin (85%)
 12. [ ] Regis Pembaca (85%)
 13. [x] About Us ✅
-14. [ ] Article
+14. [ ] Article (60%)
 15. [x] Profil Pembaca ✅
 16. [x] Riwayat Peminjaman ✅
 17. [x] Form Pinjam Buku ✅
 18. [x] Aktivitas Saya/Pembaca ✅
 19. [x] Profil Admin ✅
-20. [ ] Data Peminjam Buku
-21. [ ] Upload Data Buku
-22. [ ] Laman Katalog-1
+20. [x] Data Peminjam Buku ✅
+21. [x] Upload Data Buku ✅
+22. [x] Laman Katalog-1 ✅
 23. [x] Laman Katalog-2 ✅
