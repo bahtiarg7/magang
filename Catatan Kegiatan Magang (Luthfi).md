@@ -80,11 +80,12 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 - 11 Oktober 2024 : (Izin)
 
 - 14 Oktober 2024 : Melakukan coding Front End:
-1. Laman artikel 
-2. Laman regis
-3. Laman login
+1. Laman artikel ✅
+2. Laman regis ✅
+3. Laman login ✅
 
-- 15 Oktober 2024 :
+- 15 Oktober 2024 : Melakukan coding Front End (perbaikan minor di semua page)
+
 - 16 Oktober 2024 :
 - 17 Oktober 2024 :
 - 18 Oktober 2024 :
@@ -106,12 +107,12 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 6. [x] Section-FAQ ✅
 7. [x] Section-CTA ✅
 8. [x] Footer ✅
-9. [ ] Login Admin (85%)
-10. [ ] Login Pembaca (85%)
-11. [ ] Regis Admin (85%)
-12. [ ] Regis Pembaca (85%)
+9. [x] Login Admin ✅
+10. [x] Login Pembaca ✅
+11. [x] Regis Admin ✅
+12. [x] Regis Pembaca ✅
 13. [x] About Us ✅
-14. [ ] Article (60%)
+14. [x] Article ✅
 15. [x] Profil Pembaca ✅
 16. [x] Riwayat Peminjaman ✅
 17. [x] Form Pinjam Buku ✅
