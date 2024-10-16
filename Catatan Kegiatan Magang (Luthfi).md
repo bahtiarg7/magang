@@ -81,12 +81,13 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 
 - 14 Oktober 2024 : Melakukan coding Front End:
 1. Laman artikel ✅
+
+- 15 Oktober 2024 : 
+1. Laman artikel ✅
 2. Laman regis ✅
 3. Laman login ✅
 
-- 15 Oktober 2024 : Melakukan coding Front End (perbaikan minor di semua page)
-
-- 16 Oktober 2024 :
+- 16 Oktober 2024 : Melakukan coding Front End (perbaikan minor di semua page)
 - 17 Oktober 2024 :
 - 18 Oktober 2024 :
 
