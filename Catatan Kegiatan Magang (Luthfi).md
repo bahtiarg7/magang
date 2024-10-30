@@ -62,7 +62,7 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 
 - 03 Oktober 2024 : (Izin Sakit)
 - 04 Oktober 2024 : (Izin Sakit)
-
+#
 - 07 Oktober 2024 : Melakukan coding Front End:
 1. Profil Pembaca ✅
 2. Profil Admin ✅
@@ -78,7 +78,7 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 - 09 Oktober 2024 : (Izin)
 - 10 Oktober 2024 : (Izin)
 - 11 Oktober 2024 : (Izin)
-
+#
 - 14 Oktober 2024 : Melakukan coding Front End:
 1. Laman artikel ✅
 
@@ -88,39 +88,37 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 3. Laman login ✅
 
 - 16 Oktober 2024 : Melakukan coding Front End (perbaikan minor di semua page)
-
-- 17 Oktober 2024 :
-- 18 Oktober 2024 :
+- 17 Oktober 2024 : Melakukan coding Front End (perbaikan minor di semua page)
+- 18 Oktober 2024 : (Izin Sakit)
+#
+- 21 Oktober 2024 : (Izin Sakit)
+- 22 Oktober 2024 : (Izin Sakit)
+- 23 Oktober 2024 : Melakukan coding Back End: Desain ERD dan CRUD menu profil pembaca
+- 24 Oktober 2024 : Melakukan coding Back End: CRUD menu profil pembaca
+- 25 Oktober 2024 : Melakukan coding Back End: CRUD menu profil pembaca
+#
+- 28 Oktober 2024 : Melakukan coding Back End: CRUD menu profil pembaca
+- 29 Oktober 2024 : Melakukan coding Back End: CRUD menu profil pembaca
+- 30 Oktober 2024 : Melakukan coding Back End: CRUD menu profil pembaca
+- 31 Oktober 2024 : Melakukan coding Back End:
+- 01 November 2024 : Melakukan coding Back End:
 
 
 # Bulan November
-
+- 04 November 2024 : 
+- 05 November 2024 : 
+- 06 November 2024 : 
+- 07 November 2024 : 
+- 08 November 2024 : 
 
 # Bulan Desember
 
 
 ##
-# Catatan Progress (Front End) (update: 07 Oktober 2024)
-1. [x] Beranda ✅
-2. [x] Navbar ✅
-3. [x] Section-Hero ✅
-4. [x] Section-Service ✅
-5. [x] Section-Catalog ✅
-6. [x] Section-FAQ ✅
-7. [x] Section-CTA ✅
-8. [x] Footer ✅
-9. [x] Login Admin ✅
-10. [x] Login Pembaca ✅
-11. [x] Regis Admin ✅
-12. [x] Regis Pembaca ✅
-13. [x] About Us ✅
-14. [x] Article ✅
-15. [x] Profil Pembaca ✅
-16. [x] Riwayat Peminjaman ✅
-17. [x] Form Pinjam Buku ✅
-18. [x] Aktivitas Saya/Pembaca ✅
-19. [x] Profil Admin ✅
-20. [x] Data Peminjam Buku ✅
-21. [x] Upload Data Buku ✅
-22. [x] Laman Katalog-1 ✅
-23. [x] Laman Katalog-2 ✅
+# Catatan Progress (BackEnd) (update: 30 Oktober 2024)
+1. [] CRUD menu profil admin 
+2. [] CRUD data peminjam buku 
+3. [] CRUD upload data buku 
+4. [x] CRUD menu profil pembaca ✅
+5. [] CRUD riwayat peminjaman buku 
+6. [] CRUD aktivitas saya
