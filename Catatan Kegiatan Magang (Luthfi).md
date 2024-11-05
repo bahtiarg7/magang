@@ -93,20 +93,23 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 #
 - 21 Oktober 2024 : (Izin Sakit)
 - 22 Oktober 2024 : (Izin Sakit)
-- 23 Oktober 2024 : Melakukan coding Back End: Desain ERD dan CRUD menu profil pembaca
-- 24 Oktober 2024 : Melakukan coding Back End: CRUD menu profil pembaca
-- 25 Oktober 2024 : Melakukan coding Back End: CRUD menu profil pembaca
+- 23 Oktober 2024 : Melakukan coding Back End: Desain ERD dan CRUD (BE) menu pembaca
+- 24 Oktober 2024 : Melakukan coding Back End: CRUD (BE) menu pembaca
+- 25 Oktober 2024 : Melakukan coding Back End: CRUD (BE) menu pembaca
 #
-- 28 Oktober 2024 : Melakukan coding Back End: CRUD menu profil pembaca
-- 29 Oktober 2024 : Melakukan coding Back End: CRUD menu profil pembaca
-- 30 Oktober 2024 : Melakukan coding Back End: CRUD menu profil pembaca
-- 31 Oktober 2024 : Melakukan coding Back End:
-- 01 November 2024 : Melakukan coding Back End:
+- 28 Oktober 2024 : Melakukan coding Back End: CRUD (BE) menu pembaca
+- 29 Oktober 2024 : Melakukan coding Back End: CRUD (BE) menu pembaca
+- 30 Oktober 2024 : Melakukan coding Back End: CRUD (BE) menu pembaca
+- 31 Oktober 2024 : 
+1. Melakukan perbaikan tampilan katalog 2 (frontend)
+2. Melakukan coding Back End: CRUD (BE) menu admin
+
+- 01 November 2024 : Melakukan coding Back End: CRUD (BE) menu admin
 
 
 # Bulan November
-- 04 November 2024 : 
-- 05 November 2024 : 
+- 04 November 2024 : (Izin sakit)
+- 05 November 2024 : Melakukan coding Back End: CRUD (BE - FE) Profil Pembaca
 - 06 November 2024 : 
 - 07 November 2024 : 
 - 08 November 2024 : 
@@ -116,9 +119,11 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 
 ##
 # Catatan Progress (BackEnd) (update: 30 Oktober 2024)
-1. [ ] CRUD menu profil admin 
-2. [ ] CRUD data peminjam buku 
-3. [ ] CRUD upload data buku 
-4. [x] CRUD menu profil pembaca ✅
-5. [ ] CRUD riwayat peminjaman buku 
-6. [ ] CRUD aktivitas saya
+1. [x] CRUD (BE) menu admin ✅
+2. [x] CRUD (BE) menu pembaca ✅
+3. [ ] CRUD (BE) katalog buku
+4. [ ] CRUD (FE) menu admin
+5. [ ] CRUD (FE) menu pembaca
+6. [ ] CRUD (FE) katalog buku
+7. [ ] Autentikasi Login
+8. [ ] Autentikasi registrasi
