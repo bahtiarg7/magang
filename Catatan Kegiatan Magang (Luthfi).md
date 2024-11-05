@@ -118,7 +118,7 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 
 
 ##
-# Catatan Progress (BackEnd) (update: 30 Oktober 2024)
+# Catatan Progress (BackEnd) (update: 05 November 2024)
 1. [x] CRUD (BE) menu admin ✅
 2. [x] CRUD (BE) menu pembaca ✅
 3. [ ] CRUD (BE) katalog buku
