@@ -103,10 +103,7 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 2. Melakukan coding Back End: CRUD (BE) menu admin
 
 - 01 November 2024 : Melakukan coding Back End: CRUD (BE) menu admin
-
-
-
-
+#
 # Bulan November
 - 04 November 2024 : (Izin sakit)
 - 05 November 2024 : Melakukan coding Back End: CRUD (BE - FE) Profil Pembaca
@@ -131,10 +128,7 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 - 27 November 2024 : (Libur Pemilu)
 - 28 November 2024 : Melakukan coding autentikasi registrasi akun
 - 29 November 2024 : Melakukan coding autentikasi registrasi akun
-
-
-
-
+#
 # Bulan Desember
 - 02 Desember 2024 : (Izin bimbingan Laporan PKL)
 - 03 Desember 2024 : Melakukan coding Front End & Back End (Problem Navbar)
@@ -143,7 +137,8 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 - 06 Desember 2024 : 
 
 ##
-# Catatan Progress (BackEnd) (update: 18 November 2024)
+# Catatan Progress (BackEnd) 
+*update: 18 November 2024
 1. [x] CRUD (BE) menu admin ✅
 2. [x] CRUD (BE) menu pembaca ✅
 3. [x] CRUD (BE) katalog buku ✅
