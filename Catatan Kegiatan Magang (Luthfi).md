@@ -1,6 +1,6 @@
 Tugas: Membuat Website Sistem Informasi Perpustakaan
 
-Link preview design: 
+Link preview design: https://www.figma.com/proto/zrlWnsuFbs5FbQJbPk1wUI/Design-File?page-id=46%3A427&node-id=102-5062&node-type=frame&viewport=1190%2C261%2C0.47&t=9QMtyLY7FNaVve7O-1&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=98%3A1806
 
 Link project github: https://github.com/putrialuthfi/perpus_repo
 #
@@ -46,7 +46,7 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 
 
 #
-- 30 September 2024 :
+- 30 September 2024 : Melakukan coding Front End:
 1. Section katalog (25%)
 2. Section FAQ (70%)
 
@@ -82,7 +82,7 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 - 14 Oktober 2024 : Melakukan coding Front End:
 1. Laman artikel ✅
 
-- 15 Oktober 2024 : 
+- 15 Oktober 2024 : Melakukan coding Front End:
 1. Laman artikel ✅
 2. Laman regis ✅
 3. Laman login ✅
@@ -100,7 +100,7 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 - 28 Oktober 2024 : Melakukan coding Back End: CRUD (BE) menu pembaca
 - 29 Oktober 2024 : Melakukan coding Back End: CRUD (BE) menu pembaca
 - 30 Oktober 2024 : Melakukan coding Back End: CRUD (BE) menu pembaca
-- 31 Oktober 2024 : 
+- 31 Oktober 2024 : Melakukan coding Back End:
 1. Melakukan perbaikan tampilan katalog 2 (frontend)
 2. Melakukan coding Back End: CRUD (BE) menu admin
 
@@ -110,18 +110,40 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 # Bulan November
 - 04 November 2024 : (Izin sakit)
 - 05 November 2024 : Melakukan coding Back End: CRUD (BE - FE) Profil Pembaca
-- 06 November 2024 : 
-- 07 November 2024 : 
-- 08 November 2024 : 
+- 06 November 2024 : Melakukan coding Back End: CRUD (BE) katalog buku
+- 07 November 2024 : Melakukan coding Back End: CRUD (BE - FE) Profil Pembaca
+- 08 November 2024 : Melakukan coding Back End: CRUD (BE - FE) Profil Pembaca
+#
+- 11 November 2024 : (Izin problem laptop)
+- 12 November 2024 : (Izin problem laptop)
+- 13 November 2024 : (Izin problem laptop)
+- 14 November 2024 : Melakukan coding Back End: CRUD (BE - FE) Profil Pembaca
+- 15 November 2024 : Melakukan coding Back End: CRUD (BE - FE) Profil Pembaca
+#
+- 18 November 2024 : Melakukan coding Back End: CRUD (BE - FE) Profil Pembaca
+- 19 November 2024 : Melakukan coding autentikasi login akun
+- 20 November 2024 : Melakukan coding autentikasi login akun 
+- 21 November 2024 : Melakukan coding autentikasi login akun
+- 22 November 2024 : Melakukan coding autentikasi login akun
+#
+- 25 November 2024 : (Izin mengikuti kegiatan ICAISD)
+- 26 November 2024 : (Izin mengikuti kegiatan ICAISD)
+- 27 November 2024 : (Libur Pemilu)
+- 28 November 2024 : Melakukan coding autentikasi registrasi akun
+- 29 November 2024 : Melakukan coding autentikasi registrasi akun
 
 # Bulan Desember
-
+- 02 Desember 2024 : (Izin bimbingan Laporan PKL)
+- 03 Desember 2024 : Melakukan coding Front End & Back End (Problem Navbar)
+- 04 Desember 2024 : Melakukan coding autentikasi registrasi akun
+- 05 Desember 2024 : 
+- 06 Desember 2024 : 
 
 ##
-# Catatan Progress (BackEnd) (update: 05 November 2024)
+# Catatan Progress (BackEnd) (update: 18 November 2024)
 1. [x] CRUD (BE) menu admin ✅
 2. [x] CRUD (BE) menu pembaca ✅
-3. [ ] CRUD (BE) katalog buku
+3. [x] CRUD (BE) katalog buku ✅
 4. [ ] CRUD (FE) menu admin
 5. [ ] CRUD (FE) menu pembaca
 6. [ ] CRUD (FE) katalog buku
