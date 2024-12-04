@@ -43,10 +43,7 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 - 27 September 2024 : Melakukan coding Front End:
 1. Form Pinjam Buku ✅
 2. Section katalog (15%)
-
-
-
-
+#
 # Bulan Oktober
 - 30 September 2024 : Melakukan coding Front End:
 1. Section katalog (25%)
