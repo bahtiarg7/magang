@@ -45,7 +45,6 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 2. Section katalog (15%)
 
 
-#
 
 
 # Bulan Oktober
@@ -109,7 +108,6 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 - 01 November 2024 : Melakukan coding Back End: CRUD (BE) menu admin
 
 
-#
 
 
 # Bulan November
@@ -138,7 +136,6 @@ Link project github: https://github.com/putrialuthfi/perpus_repo
 - 29 November 2024 : Melakukan coding autentikasi registrasi akun
 
 
-#
 
 
 # Bulan Desember
